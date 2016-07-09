@@ -20,7 +20,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   if (window.location.port === '') {  // if production
     // Uncomment app.baseURL below and
     // set app.baseURL to '/your-pathname/' if running from folder in production
-    // app.baseUrl = '/polymer-starter-kit/';
+    app.baseUrl = '/dev-e-loper/polymer-starter-kit-1.3.0/';
   }
 
   app.displayInstalledToast = function() {

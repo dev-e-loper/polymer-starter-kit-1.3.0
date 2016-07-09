@@ -3,3 +3,6 @@ dist
 bower_components
 .tmp
 .publish/
+
+.idea/vcs.xml
+.idea/workspace.xml
